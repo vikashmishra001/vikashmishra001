@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: coral;
+    color: greenyellow;
+}
+
+.calculator {
+    margin-top: 50px;
+    background-color: rgb(148, 104, 209);
+}
+
+label, input, button {
+    display: block;
+    margin-bottom: 10px;
+    background-color: rgb(182, 173, 230);
+
+    
+}
+
+button {
+    padding: 10px 20px;
+    background-color: darkgoldenrod;
+}
+button:hover{
+    background-color: aquamarine;
+}
+
+#tipAmount, #totalAmount {
+    margin-top: 20px;
+    text-align: center;
+    
+}
