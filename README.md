@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ..java.
 - 💞️ I’m looking to collaborate on ..web development project.
 - 📫 How to reach me .. mk29vk@gmail.com.
+-    i'm also a database analyst.
 - ⚡ Fun fact: ...
 
 <!---
